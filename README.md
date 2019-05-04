@@ -12,6 +12,6 @@
 	
 # IDE GUI
 	#before Compile <<scanner>>
-		![alt writting with autocompelete](readme/compilerImage.PNG)
+![alt writting with autocompelete](readme/compilerImage.PNG)
 	#IDE after Scan beautify Code and return toKens<Token Text-Token Type>
-		![alt beautify Code and return toKens](readme/compilerAfterScanner.PNG)
+![alt beautify Code and return toKens](readme/compilerAfterScanner.PNG)
