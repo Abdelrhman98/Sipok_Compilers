@@ -1,14 +1,11 @@
 # Sipok_Compilers
 # Team Members
 	Ahmed Gbr @AM5820
-	#profile
-		https://github.com/AM5820
+[link text itself]: https://github.com/AM5820
 	Islam Tarek @ius3r
-	#profile
-		https://github.com/ius3r
+[link text itself]:https://github.com/ius3r
 	Hasnaa Elshennawy @Hasnaa Elshennawy
-	#profile
-		https://github.com/HasnaaElshennawy
+[link text itself]:https://github.com/HasnaaElshennawy
 	
 # IDE GUI
 	#before Compile <<scanner>>
